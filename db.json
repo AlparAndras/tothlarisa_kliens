@@ -1,55 +1,57 @@
-{
- "user_id": 1,
-  "id":1,
-  "title": "Anci"
-},
-{
- "user_id": 1,
-  "id":2,
-  "title": "Bari"
-},
-{
- "user_id": 1,
-  "id":3,
-  "title": "Szabi"
-},
-{
- "user_id": 1,
-  "id":4,
-  "title": "Zoli"
-},
-{
- "user_id": 1,
-  "id":5,
-  "title": "Kalman"
-},
-{
- "user_id": 1,
-  "id":6,
-  "title": "Sanyi"
-},
-{
- "user_id": 1,
-  "id":7,
-  "title": "Gyuri"
-},
-{
- "user_id": 1,
-  "id":8,
-  "title": "Feri"
-},
-{
- "user_id": 1,
-  "id":9,
-  "title": "Pepi"
-},
-{
- "user_id": 1,
-  "id":10,
-  "title": "Timi"
-},
-{
- "user_id": 1,
-  "id":11,
-  "title": "Dora"
-}
+[
+  {
+  "user_id": 1,
+   "id":1,
+   "title": "Anci"
+ },
+ {
+  "user_id": 1,
+   "id":2,
+   "title": "Bari"
+ },
+ {
+  "user_id": 1,
+   "id":3,
+   "title": "Szabi"
+ },
+ {
+  "user_id": 1,
+   "id":4,
+   "title": "Zoli"
+ },
+ {
+  "user_id": 1,
+   "id":5,
+   "title": "Kalman"
+ },
+ {
+  "user_id": 1,
+   "id":6,
+   "title": "Sanyi"
+ },
+ {
+  "user_id": 1,
+   "id":7,
+   "title": "Gyuri"
+ },
+ {
+  "user_id": 1,
+   "id":8,
+   "title": "Feri"
+ },
+ {
+  "user_id": 1,
+   "id":9,
+   "title": "Pepi"
+ },
+ {
+  "user_id": 1,
+   "id":10,
+   "title": "Timi"
+ },
+ {
+  "user_id": 1,
+   "id":11,
+   "title": "Dora"
+ }
+]
